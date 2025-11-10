@@ -1,7 +1,8 @@
 # Bookmark Checker (shortcut)
 
-[Install the latest version](https://github.com/paralevel/bookmark-checker.shortcut/releases)
-
+[__Install latest version__](https://github.com/paralevel/bookmark-checker.shortcut/releases)
+\
+\
 A shortcut for iOS and macOS that looks for the current URL in your bookmarks and presents the result. 
 
 Finds variant URLs that ends/doesn't end with a "/" or a "#" string (hash/URI fragment), and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked (not available in clipboard/manual mode). 
